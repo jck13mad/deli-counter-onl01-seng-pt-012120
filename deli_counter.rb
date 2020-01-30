@@ -9,6 +9,6 @@ def line(array)
     end
     puts "The line is currently: #{nuarray.join(" ")}"
   else
-    puts ""
+    puts "The line is currently empty."
   
 end
