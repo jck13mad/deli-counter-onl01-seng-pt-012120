@@ -1,4 +1,6 @@
 # Write your code here.
+katz_deli = ["Moshe", "Fayge", "Rivki"]
+
 def line(array)
   if array.length >= 1
     new_array = []
