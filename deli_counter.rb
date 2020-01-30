@@ -17,6 +17,6 @@ end
 
 line(katz_deli)
 
-
+def line_array
 
 
