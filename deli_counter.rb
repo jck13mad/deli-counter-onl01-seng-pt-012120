@@ -6,5 +6,5 @@ def line(array)
     array.each do |name|
       new_array.push("#{counter}. #{name}")
       counter += 1
-      
+    end
 end
