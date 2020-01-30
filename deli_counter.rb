@@ -8,6 +8,7 @@ def line(array)
       counter += 1
     end
     puts "The line is currently: #{nuarray.join(" ")}"
-    
+  else
+    puts ""
   
 end
